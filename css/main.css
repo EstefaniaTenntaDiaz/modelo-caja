@@ -1,0 +1,17 @@
+.mayor{
+	width:500px;
+	height: 40px;
+	background-color:#f9cb9c;
+	margin: 5px 20px; 
+	padding: 20px;
+	border: 7px solid #9900ff;  
+	text-align: center;
+}
+.nada{
+	background-color: #fff;
+	border: 0.5px  dashed;
+  	font-size: 8px;
+  	height: 23px;
+  	width: 450px;
+  	margin-left: 55px;
+}
